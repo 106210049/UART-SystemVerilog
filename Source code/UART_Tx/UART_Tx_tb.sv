@@ -1,0 +1,96 @@
+// Code your testbench here
+// or browse Examples
+//  AUTHOR: Mohamed Maged Elkholy.
+//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
+//  AUTHOR'S EMAIL: majiidd17@icloud.com
+//  FILE NAME: UartTxTest.v
+//  TYPE: Test fixture "Test bench".
+//  DATE: 30/8/2022
+//  KEYWORDS: UART Tx.
+
+`timescale 1ns/1ps
+
+module UartTxTest;
+
+// Test Inputs
+reg       clk;
+reg       rst_n;
+reg       send;
+reg [1:0] parity_type;
+reg [1:0] baud_rate;
+reg [7:0] data_in;
+
+// Test Outputs
+wire      data_tx;
+wire      active_flag;
+wire      done_flag;
+
+// Instantiation of the UART_Tx module
+UART_Tx uut (
+    .clk(clk),
+    .rst_n(rst_n),
+    .send(send),
+    .parity_type(parity_type),
+    .baud_rate(baud_rate),
+    .data_in(data_in),
+    .data_tx(data_tx),
+    .active_flag(active_flag),
+    .done_flag(done_flag)
+);
+
+// Dump waveforms
+initial begin
+    $dumpfile("UartTxTest.vcd");
+    $dumpvars;
+end
+
+// Monitor the outputs and inputs
+initial begin
+    $monitor($time, " DataTx = %b ActiveFlag = %b DoneFlag = %b Send = %b Reset = %b ParityType = %b BaudRate = %b DataIn = %b ",
+        data_tx, active_flag, done_flag, send, rst_n, parity_type, baud_rate, data_in);
+end
+
+// Reset the system
+initial begin
+    rst_n = 1'b0;
+    #100 rst_n = 1'b1;
+end
+
+// Generate clock signal
+initial begin
+    clk = 1'b0;
+    forever #5 clk = ~clk; // 100 MHz clock
+end
+
+// Control send signal
+initial begin
+    send = 1'b0;
+    #200 send = 1'b1;
+    #300 send = 1'b0;
+end
+
+// Set baud rate and parity type, and provide data inputs
+initial begin
+    baud_rate = 2'b10; // 9600 Baud
+    parity_type = 2'b01; // Odd parity
+    data_in = 8'b01001010;
+    #1100;
+    
+    parity_type = 2'b10; // Even parity
+    data_in = 8'b10101010;
+    #1100;
+    
+    parity_type = 2'b00; // No parity
+    data_in = 8'b11001100;
+    #1100;
+    
+    parity_type = 2'b11; // No parity
+    data_in = 8'b11110000;
+    #1100;
+end
+
+initial begin
+    #5000 $stop; // Stop simulation after enough time
+end
+
+endmodule
