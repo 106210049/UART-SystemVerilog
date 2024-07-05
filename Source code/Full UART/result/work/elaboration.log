@@ -1,0 +1,33 @@
+Riviera-PRO 2023.04.112.8911(Linux64) 2024-07-05 08:58:28
+
+Elaboration top modules:
+Verilog Module                DuplexTest
+
+
+---------------------------------------------------------------------------------------
+Verilog Module          | Library | Info | Compiler Version      | Compilation Options
+---------------------------------------------------------------------------------------
+DuplexTest              | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+Duplex                  | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+UART_Tx                 | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+UART_Rx                 | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+BaudGenTx               | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+Parity_Bit              | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+PISO                    | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+BaudGenRx               | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+SIPO                    | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+DeFrame                 | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+Error_check             | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Library                 | Comment
+---------------------------------------------------------------------------------------
+work                    | None
+---------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access+r
+
+
+The performance of simulation is reduced. Version EDU Edition

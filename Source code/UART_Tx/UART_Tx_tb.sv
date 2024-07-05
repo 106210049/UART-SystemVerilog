@@ -66,7 +66,6 @@ end
 initial begin
     send = 1'b0;
     #200 send = 1'b1;
-    #300 send = 1'b0;
 end
 
 // Set baud rate and parity type, and provide data inputs
@@ -74,19 +73,17 @@ initial begin
     baud_rate = 2'b10; // 9600 Baud
     parity_type = 2'b01; // Odd parity
     data_in = 8'b01001010;
-    #1100;
+    #1500000;
     
     parity_type = 2'b10; // Even parity
     data_in = 8'b10101010;
-    #1100;
+    #1500000;
     
     parity_type = 2'b00; // No parity
     data_in = 8'b11001100;
-    #1100;
+    #1500000;
     
-    parity_type = 2'b11; // No parity
-    data_in = 8'b11110000;
-    #1100;
+    
 end
 
 initial begin
