@@ -137,7 +137,17 @@ It is a ***Baud Rate Generator***, but uses a sampling rate of 16 times the baud
 It is the heart of the Receiver unit.
 
 ##### Rx FSM
-
+The oversampling scheme works as follows:
+1) Wait until the incoming signal becomes 0, the beginning of the start bit, and
+then start the sampling tick counter.
+2) When the counter reaches 7, the incoming signal reaches the middle point of the
+start bit. Clear the counter to 0 and restart.
+3) When the counter reaches 15, the incoming signal progresses for one bit and
+reaches the middle of the first data bit. Retrieve its value, shift it into a register,
+and restart the counter.
+4) Repeat step 3 n-1 more times to retrieve the remaining data bits.
+5) If the optional parity bit is used, repeat step 3 one time to obtain the parity bit.
+6) Repeat step 3 n more times to obtain the stop bits. 
 ![Sipo FSM](Image/Rx_FSM.png)
 
 *   Design module *[SIPO.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Rx/result/SIPO.sv)*
