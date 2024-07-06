@@ -171,6 +171,7 @@ The top module ***Rx*** connects all the architecture.
 *   Design module *[RxUnit.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Rx/RxUnit.v)*
 *   Test bench *[RxTest.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Rx/RxTest.v)*
 
-  ### Reference: 
+  ### References: 
   Github: *[UART](https://github.com/MuhammadMajiid/UART/tree/main?tab=readme-ov-file)*
+  
   Document: UART: A Hardware Communication Protocol Understanding Universal Asynchronous Receiver/Transmitter- Analog Devices
