@@ -32,6 +32,7 @@ In UART communication, two UARTs communicate directly with each other. The trans
 
 
 ### Full Duplex UART
+![Tx architecture](Image/UART_block.png)
 
 *   Implemented a full duplex uart body from the two top modules [UART_Tx.sv](Source code/UART_Tx/UART_Tx.sv) and [UART_Rx.sv](Source code/UART_Rx/result/UART_Rx.sv).
 
@@ -49,6 +50,7 @@ In UART communication, two UARTs communicate directly with each other. The trans
 ![Tx architecture](Image/UART_Tx.png)
 
 #### Baud Rate Generator Unit
+![Tx architecture](Image/Baud_gen.png)
 
 ***Baud Rate*** is the rate at which the number of signal elements or changes to the signal occurs per second when it passes through a transmission medium. The higher the baud rate, the faster the data is sent/received.
 
