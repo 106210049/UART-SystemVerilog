@@ -34,10 +34,10 @@ In UART communication, two UARTs communicate directly with each other. The trans
 ### Full Duplex UART
 ![Tx architecture](Image/UART_block.png)
 
-*   Implemented a full duplex uart body from the two top modules [UART_Tx.sv](Source code/UART_Tx/UART_Tx.sv) and [UART_Rx.sv](Source code/UART_Rx/result/UART_Rx.sv).
+*   Implemented a full duplex uart body from the two top modules [UART_Tx.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/Full%20UART/result/UART_Tx.sv) and [UART_Rx](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/Full%20UART/result/UART_Rx.sv).
 
-*   Design module *[UART.sv](Source code/Full UART/result/design.sv)*
-*   Test bench *[UART_test.v](Source code/Full UART/result/testbench.sv)* 
+*   Design module *[UART.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/Full%20UART/result/design.sv)*
+*   Test bench *[UART_test.v](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/Full%20UART/result/design.sv)* 
 
 *   The wave form:
 ![Full Duplex UART](Image/EPWAVE.png)
@@ -65,8 +65,8 @@ This unit supports four possible baud rates:
 *   The latter two are the most common.
 *   The values of the timer calculated for the baud rates are for the **50MHz** system's clock, those values need to be re-calculated for different clock frequencies.
 
-*   Design module *[BaudGenTx.sv](Source code/UART_Tx/Baud_Gen_Tx.sv)*
-*   Test bench *[BaudTest.sv](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Tx/BaudTest.v)*
+*   Design module *[BaudGenTx.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Tx/Baud_Gen_Tx.sv)*
+*   Test bench *[BaudTest.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Tx/BaudGen_Tx_tb.sv)*
 
 
 #### Parity Bit Unit
@@ -85,8 +85,8 @@ This unit supports three parity types:
 *   This method can discover a one-bit error, if two bits are flipped concurrently the packet will be considered the correct packet.
 *   The default case is that there is no parity bit. 
 
-*   Design module *[Parity.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Tx/Parity.v)*
-*   Test bench *[ParityTest.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Tx/ParityTest.v)*
+*   Design module *[Parity.v](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Tx/Parity_Bit.sv)*
+*   Test bench *[ParityTest.v](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Tx/ParityGen_tb.sv)*
 
 
 #### PISO Unit
@@ -103,8 +103,8 @@ It is the heart of the transmission unit.
 *   The **Done Flag** indicates whether the transmission is done or not, to enable another packet to get ready to be sent.
 *   The **Active Flag** indicates whether the transmitter is in progress or an **idle state**.
 
-*   Design module *[PISO.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Tx/PISO.v)*
-*   Test bench *[PisoTest.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Tx/PisoTest.v)*
+*   Design module *[PISO.v](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Tx/PISO.sv)*
+*   Test bench *[PisoTest.v](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Tx/PISO_tb.sv)*
 
 
 #### Tx Top Module
@@ -112,8 +112,8 @@ It is the heart of the transmission unit.
 The top module ***Tx*** connects all the architecture.
 
 *   See the full architecture: *[UART-Tx](#uart-tx)*
-*   Design module *[TxUnit.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Tx/TxUnit.v)*
-*   Test bench *[TxTest.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Tx/TxTest.v)*
+*   Design module *[UART_Tx.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Tx/UART_Tx.sv)*
+*   Test bench *[UART_TX_tb.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Tx/UART_Tx_tb.sv)*
 
 
 ### UART-Rx
@@ -126,8 +126,8 @@ The top module ***Tx*** connects all the architecture.
 
 It is a ***Baud Rate Generator***, but uses a sampling rate of 16 times the baud rate, which means that each serial bit is sampled 16 times, this methodology shifts the time to read the data to the center of the bit.
 
-*   Design module *[BaudGenR.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Rx/BaudGenR.v)*
-*   Test bench *[BaudTest.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Rx/BaudTest.v)*
+*   Design module *[BaudGenRx.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Rx/result/BaudGen_Rx.sv)*
+*   Test bench *[BaudTest.sv](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Rx/BaudTest.v)*
 *   *For more information about the oversampling used in this project, check [Oversampling methodology](https://robo-tronix.weebly.com/uploads/2/3/2/1/23219916/uart_design_doc.pdf).*
 
 
@@ -140,15 +140,15 @@ It is the heart of the Receiver unit.
 
 ![Sipo FSM](Image/Rx_FSM.png)
 
-*   Design module *[SIPO.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Rx/SIPO.v)*
-*   Test bench *[SipoTest.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Rx/SipoTest.v)*
+*   Design module *[SIPO.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Rx/result/SIPO.sv)*
+*   Test bench *[SipoTest.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Rx/result/SIPO_tb.sv)*
 
 #### DeFrame Unit
 
 De-Frame unit is responsible for separating the frame into four main parts: **Strat bit**, **Data packet**, **Parity bit**, **Stop bit**, it is the final stage, regardless of the [Error Check Unit](#error-check-unit), in the Receiver.
 
-*   Design module *[DeFrame.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Rx/DeFrame.v)*
-*   Test bench *[DeFrameTest.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Rx/DeFrameTest.v)*
+*   Design module *[DeFrame.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Rx/result/Deframe.sv)*
+*   Test bench *[DeFrameTest.sv](https://github.com/106210049/UART-SystemVerilog/tree/main/Source%20code/UART_Rx/result)*
 
 
 #### Error Check Unit
