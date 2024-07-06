@@ -1,6 +1,6 @@
 # UART
 
-## Full UART implementation using Verilog HDL
+## Full UART implementation using SystemVerilog
 
 ### Summary
 
