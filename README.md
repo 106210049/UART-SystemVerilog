@@ -174,4 +174,7 @@ The top module ***Rx*** connects all the architecture.
   ### References: 
   Github: *[UART](https://github.com/MuhammadMajiid/UART/tree/main?tab=readme-ov-file)*
   
-  Document: UART: A Hardware Communication Protocol Understanding Universal Asynchronous Receiver/Transmitter- Analog Devices
+  Document: 
+  1. A Hardware Communication Protocol Understanding Universal Asynchronous Receiver/Transmitter- Analog Devices
+  2. [BASICS OF UART COMMUNICATION](https://www.circuitbasics.com/basics-uart-communication/).
+  3. [Oversampling methodology](https://robo-tronix.weebly.com/uploads/2/3/2/1/23219916/uart_design_doc.pdf).
