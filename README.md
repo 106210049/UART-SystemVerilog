@@ -70,6 +70,7 @@ This unit supports four possible baud rates:
 
 
 #### Parity Bit Unit
+![Rx architecture](Image/Parity_gen.png)
 
 ***Parity bit*** is a method of checking if the data packet is sent correctly by calculating the number of 1's in the packet and providing the parity bit according to the ***parity type***, then checking if the Received data packet has the same parity bit.
 
@@ -121,6 +122,7 @@ The top module ***Tx*** connects all the architecture.
 ![Rx architecture](Image/UART_Rx.png)
 
 #### Oversampling Unit
+![Rx architecture](Image/Baud_gen_rx.png)
 
 It is a ***Baud Rate Generator***, but uses a sampling rate of 16 times the baud rate, which means that each serial bit is sampled 16 times, this methodology shifts the time to read the data to the center of the bit.
 
