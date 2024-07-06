@@ -159,8 +159,8 @@ This unit is indispensable, noise is everywhere and it is most likely that at so
 2.  **Start Error**: re-checks the start bit, whether it equals logic 0 or not, it rises to logic 1 if they are not equal.
 3.  **Stop Error**: re-checks the start bit, whether it equals logic 1 or not, it rises to logic 1 if they are not equal.
 
-*   Design module *[ErrorCheck.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Rx/ErrorCheck.v)*
-*   Test bench *[CheckTest.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Rx/CheckTest.v)*
+*   Design module *[ErrorCheck.v](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Rx/result/Error_Check.sv)*
+*   Test bench *[CheckTest.v](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Rx/result/Error_Check_tb.sv)*
 
 
 #### Rx Top Module
@@ -168,8 +168,8 @@ This unit is indispensable, noise is everywhere and it is most likely that at so
 The top module ***Rx*** connects all the architecture.
 
 *   See the full architecture: *[UART-Rx](#uart-rx)*
-*   Design module *[RxUnit.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Rx/RxUnit.v)*
-*   Test bench *[RxTest.v](https://github.com/MuhammadMajiid/UART/blob/main/Code/UART-Rx/RxTest.v)*
+*   Design module *[UART_Rx.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Rx/result/UART_Rx.sv)*
+*   Test bench *[RxTest.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Rx/result/testbench.sv)*
 
   ### References: 
   Github: *[UART](https://github.com/MuhammadMajiid/UART/tree/main?tab=readme-ov-file)*
