@@ -25,9 +25,8 @@ In UART communication, two UARTs communicate directly with each other. The trans
     - [DeFrame Unit](#deframe-unit)
     - [Error Check Unit](#error-check-unit)
     - [Rx Top Module](#rx-top-module)
-- [FPGA Implementaion](#fpga-implementation)
-- [About The Author](#about-the-author)
-- [About The Project](#about-the-project)
+- [References](#References)
+
 
 
 
