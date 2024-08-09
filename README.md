@@ -37,7 +37,7 @@ In UART communication, two UARTs communicate directly with each other. The trans
 
 *   Design module *[UART.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/Full%20UART/result/design.sv)*
 *   Test bench *[UART_test.v](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/Full%20UART/result/design.sv)* 
-
+My code in EDA Playground: [UART](https://edaplayground.com/x/cp_y)
 *   The wave form:
 ![Full Duplex UART](Image/EPWAVE.png)
 
@@ -66,7 +66,7 @@ This unit supports four possible baud rates:
 
 *   Design module *[BaudGenTx.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Tx/Baud_Gen_Tx.sv)*
 *   Test bench *[BaudTest.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Tx/BaudGen_Tx_tb.sv)*
-
+My code in EDA Playground: [BaudGenTx](https://edaplayground.com/x/Rtrv)
 
 #### Parity Bit Unit
 ![Rx architecture](Image/Parity_gen.png)
@@ -86,7 +86,7 @@ This unit supports three parity types:
 
 *   Design module *[Parity.v](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Tx/Parity_Bit.sv)*
 *   Test bench *[ParityTest.v](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Tx/ParityGen_tb.sv)*
-
+My code in EDA Playground: [Parity Bit Gen](https://edaplayground.com/x/E5CZ)
 
 #### PISO Unit
 
@@ -104,7 +104,7 @@ It is the heart of the transmission unit.
 
 *   Design module *[PISO.v](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Tx/PISO.sv)*
 *   Test bench *[PisoTest.v](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Tx/PISO_tb.sv)*
-
+My code in EDA Playground: [PISO](https://edaplayground.com/x/QzEh)
 
 #### Tx Top Module
 
@@ -113,7 +113,7 @@ The top module ***Tx*** connects all the architecture.
 *   See the full architecture: *[UART-Tx](#uart-tx)*
 *   Design module *[UART_Tx.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Tx/UART_Tx.sv)*
 *   Test bench *[UART_TX_tb.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Tx/UART_Tx_tb.sv)*
-
+My code in EDA Playground: [UART_Tx](https://edaplayground.com/x/tYYV)
 
 ### UART-Rx
 
@@ -151,6 +151,7 @@ and restart the counter.
 
 *   Design module *[SIPO.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Rx/result/SIPO.sv)*
 *   Test bench *[SipoTest.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Rx/result/SIPO_tb.sv)*
+My code in EDA Playground: [SIPO](https://edaplayground.com/x/LuF_)
 
 #### DeFrame Unit
 
@@ -158,7 +159,7 @@ De-Frame unit is responsible for separating the frame into four main parts: **St
 
 *   Design module *[DeFrame.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Rx/result/Deframe.sv)*
 *   Test bench *[DeFrameTest.sv](https://github.com/106210049/UART-SystemVerilog/tree/main/Source%20code/UART_Rx/result)*
-
+My code in EDA Playground: [Deframe](https://edaplayground.com/x/PVHb)
 
 #### Error Check Unit
 
@@ -170,7 +171,7 @@ This unit is indispensable, noise is everywhere and it is most likely that at so
 
 *   Design module *[ErrorCheck.v](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Rx/result/Error_Check.sv)*
 *   Test bench *[CheckTest.v](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Rx/result/Error_Check_tb.sv)*
-
+My code in EDA Playground: [ErrorCheck](https://edaplayground.com/x/7Wrs)
 
 #### Rx Top Module
 
@@ -179,6 +180,7 @@ The top module ***Rx*** connects all the architecture.
 *   See the full architecture: *[UART-Rx](#uart-rx)*
 *   Design module *[UART_Rx.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Rx/result/UART_Rx.sv)*
 *   Test bench *[RxTest.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/UART_Rx/result/testbench.sv)*
+My code in EDA Playground: [UART_Rx](https://edaplayground.com/x/SYDd)
 
   ### References: 
   Github: *[UART](https://github.com/MuhammadMajiid/UART/tree/main?tab=readme-ov-file)*
