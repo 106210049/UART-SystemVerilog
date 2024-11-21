@@ -31,7 +31,7 @@ In UART communication, two UARTs communicate directly with each other. The trans
 
 
 ### Full Duplex UART
-![Tx architecture](Image/UART_block.png)
+![Tx architecture](Image/Screenshot 2024-11-21 191706.png)
 
 *   Implemented a full duplex uart body from the two top modules [UART_Tx.sv](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/Full%20UART/result/UART_Tx.sv) and [UART_Rx](https://github.com/106210049/UART-SystemVerilog/blob/main/Source%20code/Full%20UART/result/UART_Rx.sv).
 
