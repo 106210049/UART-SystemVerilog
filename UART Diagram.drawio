@@ -1154,12 +1154,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7EHLLqpA18GmWOZktrp3" name="PISO">
-    <mxGraphModel dx="2391" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YV_R9aCekJssqHJDNIXX-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="120" y="520" width="600" height="440" as="geometry" />
+          <mxGeometry x="140" y="570" width="550" height="370" as="geometry" />
         </mxCell>
         <mxCell id="xnqjk0cgQOtwMFcU_-58-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
           <mxGeometry x="90" y="40" width="680" height="360" as="geometry" />
@@ -1630,7 +1630,7 @@
           <mxGeometry x="360" y="765" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YV_R9aCekJssqHJDNIXX-12" value="controller inst" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="520" width="80" height="30" as="geometry" />
+          <mxGeometry x="145" y="570" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
