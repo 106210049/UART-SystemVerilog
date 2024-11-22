@@ -1154,17 +1154,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7EHLLqpA18GmWOZktrp3" name="PISO">
-    <mxGraphModel dx="2391" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YV_R9aCekJssqHJDNIXX-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="520" width="600" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="xnqjk0cgQOtwMFcU_-58-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xnqjk0cgQOtwMFcU_-58-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="90" y="40" width="680" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="xnqjk0cgQOtwMFcU_-58-1" value="controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xnqjk0cgQOtwMFcU_-58-1" value="controller" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="160" y="80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xnqjk0cgQOtwMFcU_-58-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -1179,7 +1179,7 @@
             <mxPoint x="360" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqjk0cgQOtwMFcU_-58-4" value="Frame Generation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xnqjk0cgQOtwMFcU_-58-4" value="Frame Generation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="440" y="180" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xnqjk0cgQOtwMFcU_-58-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -1272,7 +1272,7 @@
         <mxCell id="xnqjk0cgQOtwMFcU_-58-20" value="parity_bit" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="230" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xnqjk0cgQOtwMFcU_-58-21" value="PISO register" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xnqjk0cgQOtwMFcU_-58-21" value="PISO register" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="610" y="180" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xnqjk0cgQOtwMFcU_-58-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -1339,7 +1339,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xnqjk0cgQOtwMFcU_-58-34" value="data_frame_r[10:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="190" width="140" height="30" as="geometry" />
+          <mxGeometry x="560" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xnqjk0cgQOtwMFcU_-58-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
