@@ -1154,7 +1154,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7EHLLqpA18GmWOZktrp3" name="PISO">
-    <mxGraphModel dx="1395" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1969" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1389,7 +1389,7 @@
         <mxCell id="xnqjk0cgQOtwMFcU_-58-47" value="PISO top module" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="40" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LeE6j8zQCoNUO3RZ6cfG-1" value="FSM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LeE6j8zQCoNUO3RZ6cfG-1" value="FSM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="420" y="580" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LeE6j8zQCoNUO3RZ6cfG-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -1431,7 +1431,7 @@
             <mxPoint x="800" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LeE6j8zQCoNUO3RZ6cfG-17" value="counter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LeE6j8zQCoNUO3RZ6cfG-17" value="counter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="420" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LeE6j8zQCoNUO3RZ6cfG-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
