@@ -1003,7 +1003,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7EHLLqpA18GmWOZktrp3" name="PISO">
-    <mxGraphModel dx="465" dy="214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="797" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1568,7 +1568,7 @@
         <mxCell id="UuMmF2UHJeeR9Nc0_D8h-10" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;&quot;&gt;stop_count&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[3:0]&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="665" width="62.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QZ6t_qrMpSWkTIC7tv9E-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QZ6t_qrMpSWkTIC7tv9E-1" value="PISO Signal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="840" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QZ6t_qrMpSWkTIC7tv9E-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -1661,10 +1661,10 @@
             <mxPoint x="239.51999999999998" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QZ6t_qrMpSWkTIC7tv9E-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.013;entryY=0.116;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QZ6t_qrMpSWkTIC7tv9E-10">
+        <mxCell id="QZ6t_qrMpSWkTIC7tv9E-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="1000" as="sourcePoint" />
-            <mxPoint x="270" y="1000" as="targetPoint" />
+            <mxPoint x="277" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QZ6t_qrMpSWkTIC7tv9E-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QZ6t_qrMpSWkTIC7tv9E-10">
