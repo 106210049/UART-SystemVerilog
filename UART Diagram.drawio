@@ -1733,6 +1733,12 @@
         <mxCell id="QZ6t_qrMpSWkTIC7tv9E-35" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;baud_clk&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="275" y="980" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QZ6t_qrMpSWkTIC7tv9E-36" value="done_flag" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="870" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QZ6t_qrMpSWkTIC7tv9E-37" value="active_flag" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542.5" y="830" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
