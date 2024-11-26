@@ -1003,7 +1003,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7EHLLqpA18GmWOZktrp3" name="PISO">
-    <mxGraphModel dx="797" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="225" dy="104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1722,16 +1722,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QZ6t_qrMpSWkTIC7tv9E-31" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;trans&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1045" width="20" height="30" as="geometry" />
+          <mxGeometry x="280" y="1056.25" width="20" height="7.5" as="geometry" />
         </mxCell>
         <mxCell id="QZ6t_qrMpSWkTIC7tv9E-32" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;load&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1020" width="20" height="30" as="geometry" />
+          <mxGeometry x="280" y="1035" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="QZ6t_qrMpSWkTIC7tv9E-34" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;rst_n&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="275" y="1000" width="30" height="30" as="geometry" />
+          <mxGeometry x="275" y="1010" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="QZ6t_qrMpSWkTIC7tv9E-35" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;baud_clk&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="275" y="980" width="40" height="30" as="geometry" />
+          <mxGeometry x="275" y="990" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="QZ6t_qrMpSWkTIC7tv9E-36" value="done_flag" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="870" width="60" height="30" as="geometry" />
@@ -1747,6 +1747,9 @@
         </mxCell>
         <mxCell id="QZ6t_qrMpSWkTIC7tv9E-39" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;data_in [7:0]&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="1010" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QZ6t_qrMpSWkTIC7tv9E-40" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;data_in[7:0]&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1025" width="25" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
