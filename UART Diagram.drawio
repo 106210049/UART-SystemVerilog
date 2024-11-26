@@ -1781,6 +1781,12 @@
         <mxCell id="QZ6t_qrMpSWkTIC7tv9E-52" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;baud_clk&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="930" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="QZ6t_qrMpSWkTIC7tv9E-53" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;active_flag&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="842.5" width="40" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="QZ6t_qrMpSWkTIC7tv9E-54" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;done_flag&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="885" width="40" height="15" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
