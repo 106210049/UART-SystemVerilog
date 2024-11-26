@@ -1154,7 +1154,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7EHLLqpA18GmWOZktrp3" name="PISO">
-    <mxGraphModel dx="1674" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1593,10 +1593,10 @@
             <mxPoint x="350" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YV_R9aCekJssqHJDNIXX-3" value="done" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="YV_R9aCekJssqHJDNIXX-3" value="load" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="760" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YV_R9aCekJssqHJDNIXX-4" value="active" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="YV_R9aCekJssqHJDNIXX-4" value="shift" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="760" y="610" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YV_R9aCekJssqHJDNIXX-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
