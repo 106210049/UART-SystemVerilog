@@ -1007,6 +1007,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wDrT2G36xiaJ_fIRmA-m-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="560" width="600" height="320" as="geometry" />
+        </mxCell>
         <mxCell id="xnqjk0cgQOtwMFcU_-58-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="90" y="40" width="680" height="360" as="geometry" />
         </mxCell>
