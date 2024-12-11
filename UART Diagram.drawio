@@ -2196,7 +2196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5_NPyaL0FDIBlsCk0qhh" name="PISO_Signal">
-    <mxGraphModel dx="806" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="656" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2220,9 +2220,6 @@
             <mxPoint x="510" y="280" as="sourcePoint" />
             <mxPoint x="509.71" y="260" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ZZc6iY2jNtD5fs3yWek7-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="311.25" y="121.25" width="87.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZZc6iY2jNtD5fs3yWek7-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZZc6iY2jNtD5fs3yWek7-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2335,11 +2332,17 @@
         <mxCell id="DmiBCjyhP7XLSJatu9Sf-5" value="1&#39;b0" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="320" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XBR3LJwiumeanD7NS5_w-87" value="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="341.25" y="110" width="20" height="20" as="geometry" />
+        <mxCell id="XBR3LJwiumeanD7NS5_w-91" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="340" y="92.5" width="30" height="87.5" as="geometry" />
         </mxCell>
-        <mxCell id="XBR3LJwiumeanD7NS5_w-88" value="0" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="341.25" y="150" width="18.75" height="20" as="geometry" />
+        <mxCell id="ZZc6iY2jNtD5fs3yWek7-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="XBR3LJwiumeanD7NS5_w-91">
+          <mxGeometry x="-28.75" y="28.75" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XBR3LJwiumeanD7NS5_w-87" value="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XBR3LJwiumeanD7NS5_w-91">
+          <mxGeometry x="1.25" y="17.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XBR3LJwiumeanD7NS5_w-88" value="0" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XBR3LJwiumeanD7NS5_w-91">
+          <mxGeometry x="1.25" y="57.5" width="18.75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
