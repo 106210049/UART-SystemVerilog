@@ -2196,10 +2196,58 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5_NPyaL0FDIBlsCk0qhh" name="PISO_Signal">
-    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="737" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sKPHeI6CL9XlucehVqFk-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="110" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZc6iY2jNtD5fs3yWek7-1" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZc6iY2jNtD5fs3yWek7-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="225" as="sourcePoint" />
+            <mxPoint x="360" y="224.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZc6iY2jNtD5fs3yWek7-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="240" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZc6iY2jNtD5fs3yWek7-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="280" as="sourcePoint" />
+            <mxPoint x="419.71" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZc6iY2jNtD5fs3yWek7-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="221.25" y="121.25" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZc6iY2jNtD5fs3yWek7-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZZc6iY2jNtD5fs3yWek7-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="136.11" as="sourcePoint" />
+            <mxPoint x="360" y="136.11" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZc6iY2jNtD5fs3yWek7-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="121" as="sourcePoint" />
+            <mxPoint x="250" y="121.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZc6iY2jNtD5fs3yWek7-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="160" as="sourcePoint" />
+            <mxPoint x="250" y="160.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZc6iY2jNtD5fs3yWek7-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="264.76" y="60" as="sourcePoint" />
+            <mxPoint x="264.76" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
