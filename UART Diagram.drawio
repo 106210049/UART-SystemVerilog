@@ -4063,6 +4063,15 @@
         <mxCell id="RGKlYzaJqf1ssDLMMDv_-71" value="rst_n" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="580" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RGKlYzaJqf1ssDLMMDv_-72" value="load" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="535" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RGKlYzaJqf1ssDLMMDv_-73" value="shift" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="580" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RGKlYzaJqf1ssDLMMDv_-74" value="frame_count [3:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="760" width="105" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
