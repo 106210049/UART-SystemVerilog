@@ -3,25 +3,29 @@
 `timescale 1ns/1ps
 module DuplexTest;
 
-//-----------------reg to drive the inputs-----------------\\
+//-----------------logic to drive the inputs-----------------\\
   
-reg        reset_n_tb;
-reg        send_tb;
-reg        clock_tb;
-reg [1:0]  parity_type_tb;
-reg [1:0]  baud_rate_tb;
-reg [7:0]  data_in_tb;
+logic        reset_n_tb;
+logic        send_tb;
+logic        clock_tb;
+logic [1:0]  parity_type_tb;
+logic [1:0]  baud_rate_tb;
+logic [7:0]  data_in_tb;
 
-//-----------------wires to show the outputs-----------------\\
-wire       tx_active_flag_tb;
-wire       tx_done_flag_tb;
-wire       rx_active_flag_tb;
-wire       rx_done_flag_tb;
-wire [2:0] error_flag_tb;
-wire [7:0] data_out_tb;
+//-----------------logics to show the outputs-----------------\\
+logic       tx_active_flag_tb;
+logic       tx_done_flag_tb;
+logic       rx_active_flag_tb;
+  
+  
+  
+  
+logic       rx_done_flag_tb;
+logic [2:0] error_flag_tb;
+logic [7:0] data_out_tb;
 
 //-----------------DUT-----------------\\
-Duplex DUT(
+UART DUT(
     //  Inputs
     .rst_n(reset_n_tb),
     .send(send_tb),
@@ -76,8 +80,8 @@ begin
     //  Testing data
     data_in_tb = 8'b10101010 ;
     //  test for baud rate 9600 and odd parity
-    baud_rate_tb   = 2'b10;
-    parity_type_tb = 2'b01;
+    baud_rate_tb   = 2'b10;	// baud rate =9600
+    parity_type_tb = 2'b01;	// ODD parity bit
     #1354166.671;   //  waits for the whole frame to be sent
 end
 
@@ -89,8 +93,8 @@ begin
     data_in_tb = 8'b1011100 ;
     #90000;  // waits for the first frame
     //  test for baud rate 19200 and even parity
-    baud_rate_tb   = 2'b11;
-    parity_type_tb = 2'b10;
+    baud_rate_tb   = 2'b11;	// baud rate= 19200
+    parity_type_tb = 2'b10;	//EVEN parity bit
     #677083.329;   //  waits for the whole frame to be sent
 end
 

@@ -1,7 +1,7 @@
-`include"SIPO.sv"
+`include"SIPO_top_module.sv"
 `include"Error_Check.sv"
 `include"Deframe.sv"
-`include"BaudGen_Rx.sv"
+`include"Baud_Gen_Rx.sv"
 module UART_Rx(
     input logic         rst_n,        // Active low reset.
     input logic         data_tx,      // Serial data received from the transmitter.
@@ -64,4 +64,4 @@ Error_check Unit4(
     .error_flag(error_flag)
 );
 
-endmodule
+endmodule: UART_Rx

@@ -1,6 +1,6 @@
 `include "Baud_Gen_Tx.sv"
 `include "Parity_Bit.sv"
-`include "PISO.sv"
+`include "PISO_top_module.sv"
 
 
 module UART_Tx(
@@ -32,7 +32,7 @@ module UART_Tx(
     .parity_bit(parity_bit_w)
   );
   
-  PISO unit3 (
+  PISO_top unit3 (
     .baud_clk(baud_clock),
     .rst_n(rst_n),
     .send(send),
