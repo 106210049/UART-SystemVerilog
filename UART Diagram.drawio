@@ -1791,7 +1791,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HDttpc7dUaclZK3qchD9" name="PISO_FSM">
-    <mxGraphModel dx="500" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="429" dy="227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1887,9 +1887,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IAJkro3zP3-vToOz0KRQ-33" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.564;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IAJkro3zP3-vToOz0KRQ-24">
+        <mxCell id="IAJkro3zP3-vToOz0KRQ-33" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="300" as="sourcePoint" />
+            <mxPoint x="510" y="230" as="sourcePoint" />
             <mxPoint x="180" y="220" as="targetPoint" />
             <Array as="points">
               <mxPoint x="510" y="231" />
