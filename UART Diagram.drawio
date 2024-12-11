@@ -2464,6 +2464,9 @@
         <mxCell id="XBR3LJwiumeanD7NS5_w-124" value="rst_n" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="535" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XBR3LJwiumeanD7NS5_w-126" value="PISO Signal block" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
