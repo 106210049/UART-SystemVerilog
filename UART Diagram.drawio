@@ -2196,7 +2196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5_NPyaL0FDIBlsCk0qhh" name="PISO_Signal Low level">
-    <mxGraphModel dx="614" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1843" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2468,7 +2468,7 @@
           <mxGeometry x="80" y="460" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y-agKA9lIeX69-AO715i-1" value="stop_count [3:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="10" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -3726,7 +3726,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="7PcMRSogRyEetBTao7Rk" name="SIPO">
+  <diagram id="7PcMRSogRyEetBTao7Rk" name="SIPO top module High level block">
     <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
