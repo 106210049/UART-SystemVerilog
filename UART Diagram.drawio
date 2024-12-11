@@ -3727,10 +3727,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7PcMRSogRyEetBTao7Rk" name="SIPO top module High level block">
-    <mxGraphModel dx="500" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RGKlYzaJqf1ssDLMMDv_-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="660" height="360" as="geometry" />
+        </mxCell>
         <mxCell id="BKiBuKKEoSTbWZ7e6Mna-1" value="controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="290" width="160" height="120" as="geometry" />
         </mxCell>
@@ -3870,7 +3873,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RGKlYzaJqf1ssDLMMDv_-23" value="data_parll [10:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="400" width="90" height="20" as="geometry" />
+          <mxGeometry x="750" y="390" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RGKlYzaJqf1ssDLMMDv_-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3893,10 +3896,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RGKlYzaJqf1ssDLMMDv_-29" value="recieved_flag" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="720" y="280" width="70" height="20" as="geometry" />
+          <mxGeometry x="750" y="279.43" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RGKlYzaJqf1ssDLMMDv_-30" value="active_flag" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="210" width="60" height="30" as="geometry" />
+          <mxGeometry x="750" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
