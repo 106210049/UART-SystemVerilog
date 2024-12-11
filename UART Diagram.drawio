@@ -2196,10 +2196,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5_NPyaL0FDIBlsCk0qhh" name="PISO_Signal">
-    <mxGraphModel dx="1500" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XBR3LJwiumeanD7NS5_w-125" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="73" width="700" height="507" as="geometry" />
+        </mxCell>
         <mxCell id="sKPHeI6CL9XlucehVqFk-1" value="DFF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="150" width="120" height="130" as="geometry" />
         </mxCell>
@@ -2366,7 +2369,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XBR3LJwiumeanD7NS5_w-101" value="active_flag" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="150" width="60" height="30" as="geometry" />
+          <mxGeometry x="780" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XBR3LJwiumeanD7NS5_w-102" value="done_flag" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="370" width="60" height="30" as="geometry" />
@@ -2429,10 +2432,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XBR3LJwiumeanD7NS5_w-118" value="baud_clk" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="20" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XBR3LJwiumeanD7NS5_w-119" value="shift" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="80" width="40" height="20" as="geometry" />
+          <mxGeometry x="40" y="80" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XBR3LJwiumeanD7NS5_w-120" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2459,7 +2462,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XBR3LJwiumeanD7NS5_w-124" value="rst_n" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="535" width="60" height="30" as="geometry" />
+          <mxGeometry x="30" y="535" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
