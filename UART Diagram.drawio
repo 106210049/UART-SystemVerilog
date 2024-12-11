@@ -2196,7 +2196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5_NPyaL0FDIBlsCk0qhh" name="PISO_Signal">
-    <mxGraphModel dx="832" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="403" dy="174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2274,8 +2274,8 @@
         </mxCell>
         <mxCell id="ZZc6iY2jNtD5fs3yWek7-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="341" as="sourcePoint" />
-            <mxPoint x="340" y="341.25" as="targetPoint" />
+            <mxPoint x="290" y="339.69" as="sourcePoint" />
+            <mxPoint x="340" y="339.94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZZc6iY2jNtD5fs3yWek7-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
