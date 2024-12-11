@@ -2195,8 +2195,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="5_NPyaL0FDIBlsCk0qhh" name="PISO_Signal">
-    <mxGraphModel dx="1235" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="5_NPyaL0FDIBlsCk0qhh" name="PISO_Signal Low level">
+    <mxGraphModel dx="614" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2403,25 +2403,25 @@
         </mxCell>
         <mxCell id="XBR3LJwiumeanD7NS5_w-113" value="" style="endArrow=none;html=1;rounded=0;endFill=0;entryX=0;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;" edge="1" parent="1" target="XBR3LJwiumeanD7NS5_w-110">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="178" as="sourcePoint" />
+            <mxPoint x="68" y="178" as="sourcePoint" />
             <mxPoint x="90" y="179.64" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XBR3LJwiumeanD7NS5_w-114" value="" style="endArrow=none;html=1;rounded=0;endFill=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;" edge="1" parent="1" target="XBR3LJwiumeanD7NS5_w-110">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="192" as="sourcePoint" />
+            <mxPoint x="68" y="193" as="sourcePoint" />
             <mxPoint x="100" y="194" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XBR3LJwiumeanD7NS5_w-115" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XBR3LJwiumeanD7NS5_w-110">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="208" as="sourcePoint" />
+            <mxPoint x="68" y="208" as="sourcePoint" />
             <mxPoint x="103" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XBR3LJwiumeanD7NS5_w-116" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XBR3LJwiumeanD7NS5_w-110">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="223" as="sourcePoint" />
+            <mxPoint x="68" y="223" as="sourcePoint" />
             <mxPoint x="92" y="221" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -2466,6 +2466,9 @@
         </mxCell>
         <mxCell id="XBR3LJwiumeanD7NS5_w-126" value="PISO Signal block" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="460" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-agKA9lIeX69-AO715i-1" value="stop_count [3:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
