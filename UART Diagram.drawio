@@ -2204,7 +2204,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ep9w95qgUtBdXqbv4fMn" name="PISO Shift Register">
-    <mxGraphModel dx="737" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2337,7 +2337,7 @@
             <mxPoint x="1120" y="330.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tAQle6_br236r5MiJmmS-266" value="clk" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tAQle6_br236r5MiJmmS-266" value="baud_clk" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tAQle6_br236r5MiJmmS-267" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -3432,7 +3432,7 @@
         <mxCell id="tAQle6_br236r5MiJmmS-472" value="data_in[7]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1080" y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tAQle6_br236r5MiJmmS-473" value="serial_out" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="tAQle6_br236r5MiJmmS-473" value="data_tx" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1180" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tAQle6_br236r5MiJmmS-474" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
