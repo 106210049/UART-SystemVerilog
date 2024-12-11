@@ -1791,7 +1791,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HDttpc7dUaclZK3qchD9" name="PISO_FSM">
-    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="614" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1858,7 +1858,7 @@
         <mxCell id="IAJkro3zP3-vToOz0KRQ-16" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;shift&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="525" y="410" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="IAJkro3zP3-vToOz0KRQ-23" value="IDLE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IAJkro3zP3-vToOz0KRQ-23" value="IDLE&lt;div&gt;load=1&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IAJkro3zP3-vToOz0KRQ-24" value="ACTIVE&lt;div&gt;----------------&lt;/div&gt;&lt;div&gt;shift=1&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2204,7 +2204,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ep9w95qgUtBdXqbv4fMn" name="PISO Shift Register">
-    <mxGraphModel dx="1518" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
