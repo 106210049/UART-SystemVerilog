@@ -4769,7 +4769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z5WOrBsQj5tqjMXXJ47d" name="SIPO_FSM">
-    <mxGraphModel dx="737" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="614" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4832,6 +4832,24 @@
         </mxCell>
         <mxCell id="cmGCP_OIIJ002ob5zjLN-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/106210049/UART-SystemVerilog/raw/main/Image/Rx_FSM.png;" vertex="1" parent="1">
           <mxGeometry x="112" y="20" width="627" height="374.64" as="geometry" />
+        </mxCell>
+        <mxCell id="cl87C7gSw40asrmIB5F8-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="600" as="sourcePoint" />
+            <mxPoint x="440" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cl87C7gSw40asrmIB5F8-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="600" as="sourcePoint" />
+            <mxPoint x="480" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="atHogy6W1OVhp7cotyCX-1" value="frame_count [3:0]" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="580" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3U_xtr8w2gxe_PuPfZUl-1" value="stop_count [3:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="580" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
