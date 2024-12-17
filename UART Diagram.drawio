@@ -4081,15 +4081,12 @@
         </mxCell>
         <mxCell id="ylq0nk8UHTQNzMAtftsi-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="810" as="sourcePoint" />
-            <mxPoint x="720" y="810" as="targetPoint" />
+            <mxPoint x="570" y="829.8" as="sourcePoint" />
+            <mxPoint x="720" y="829.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ylq0nk8UHTQNzMAtftsi-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="850" as="sourcePoint" />
-            <mxPoint x="720" y="850" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ylq0nk8UHTQNzMAtftsi-12" value="stop_count [3:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="621.25" y="800" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
