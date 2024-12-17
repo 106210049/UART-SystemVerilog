@@ -3727,13 +3727,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7PcMRSogRyEetBTao7Rk" name="SIPO top module High level block">
-    <mxGraphModel dx="521" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1075" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RGKlYzaJqf1ssDLMMDv_-80" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="205" y="530" width="400" height="320" as="geometry" />
-        </mxCell>
         <mxCell id="RGKlYzaJqf1ssDLMMDv_-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" parent="1" vertex="1">
           <mxGeometry x="90" y="80" width="640" height="320" as="geometry" />
         </mxCell>
@@ -4039,7 +4036,7 @@
             <mxPoint x="245" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGKlYzaJqf1ssDLMMDv_-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.036;entryY=0.256;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="RGKlYzaJqf1ssDLMMDv_-45" edge="1">
+        <mxCell id="RGKlYzaJqf1ssDLMMDv_-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="RGKlYzaJqf1ssDLMMDv_-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="245" y="800" as="sourcePoint" />
             <mxPoint x="295" y="750" as="targetPoint" />
@@ -4767,7 +4764,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NQosVC1yKyverkNgNMKl" name="stop_counter">
-    <mxGraphModel dx="516" dy="223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
