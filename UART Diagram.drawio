@@ -3727,7 +3727,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7PcMRSogRyEetBTao7Rk" name="SIPO top module High level block">
-    <mxGraphModel dx="430" dy="186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="614" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3970,6 +3970,15 @@
             <mxPoint x="80" y="609.9200000000001" as="sourcePoint" />
             <mxPoint x="120" y="609.9200000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tqVTRjOflqfBut_qMiYa-16" value="baud_clk" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="530" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tqVTRjOflqfBut_qMiYa-17" value="rst_n" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tqVTRjOflqfBut_qMiYa-18" value="en" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="650" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
