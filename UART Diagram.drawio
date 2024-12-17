@@ -5008,6 +5008,12 @@
             <mxPoint x="480" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fkEPyWJG_w4IzBXA3AM9-1" value="finish_center" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fkEPyWJG_w4IzBXA3AM9-2" value="finish_sample" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
