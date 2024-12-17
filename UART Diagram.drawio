@@ -1921,7 +1921,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Cjdv-Rebkqt124ObUQ4C" name="PISO_counter">
-    <mxGraphModel dx="500" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="420" dy="223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2093,8 +2093,8 @@
             <mxPoint x="320" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CzSemrHDK23YsJFZVH3I-36" value="clk" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="275" y="335" width="30" height="30" as="geometry" />
+        <mxCell id="CzSemrHDK23YsJFZVH3I-36" value="baud_clk" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="275" y="355" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CzSemrHDK23YsJFZVH3I-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="335" y="365" width="10" height="10" as="geometry" />
