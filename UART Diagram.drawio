@@ -4699,7 +4699,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z5WOrBsQj5tqjMXXJ47d" name="SIPO_FSM">
-    <mxGraphModel dx="1158" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="744" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4759,6 +4759,9 @@
         </mxCell>
         <mxCell id="cmGCP_OIIJ002ob5zjLN-14" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;en&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="358" y="510" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cmGCP_OIIJ002ob5zjLN-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/106210049/UART-SystemVerilog/raw/main/Image/Rx_FSM.png;" vertex="1" parent="1">
+          <mxGeometry x="144" y="30" width="563" height="336.4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
