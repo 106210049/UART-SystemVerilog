@@ -4804,7 +4804,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NQosVC1yKyverkNgNMKl" name="stop_counter">
-    <mxGraphModel dx="453" dy="195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="645" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4928,8 +4928,8 @@
             <mxPoint x="420" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v1ZnyHPdKa7Qv-wo6nLy-36" value="clk" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="375" y="415" width="30" height="30" as="geometry" />
+        <mxCell id="v1ZnyHPdKa7Qv-wo6nLy-36" value="baud_clk" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="435" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v1ZnyHPdKa7Qv-wo6nLy-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="435" y="445" width="10" height="10" as="geometry" />
