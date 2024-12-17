@@ -4804,7 +4804,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NQosVC1yKyverkNgNMKl" name="stop_counter">
-    <mxGraphModel dx="645" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5014,6 +5014,18 @@
             <mxPoint x="445" y="129.82" as="sourcePoint" />
             <mxPoint x="520" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="N_FF3nNVTaf3Hf9aXrmR-6" value="baud_clk" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="90" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N_FF3nNVTaf3Hf9aXrmR-7" value="rst_n" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="N_FF3nNVTaf3Hf9aXrmR-8" value="current_state[1:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N_FF3nNVTaf3Hf9aXrmR-9" value="stop_count[3:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
