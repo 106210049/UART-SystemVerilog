@@ -4870,7 +4870,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NQosVC1yKyverkNgNMKl" name="stop_counter">
-    <mxGraphModel dx="1075" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="516" dy="223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5180,7 +5180,7 @@
         <mxCell id="HER69lqGRRs0H6n3DlCx-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="240" as="sourcePoint" />
-            <mxPoint x="720" y="240" as="targetPoint" />
+            <mxPoint x="760" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HER69lqGRRs0H6n3DlCx-15" value="4&#39;d6" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
