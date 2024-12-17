@@ -4769,7 +4769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z5WOrBsQj5tqjMXXJ47d" name="SIPO_FSM">
-    <mxGraphModel dx="614" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="737" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4805,12 +4805,6 @@
         </mxCell>
         <mxCell id="cmGCP_OIIJ002ob5zjLN-7" value="rst_n" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="158" y="470" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cmGCP_OIIJ002ob5zjLN-8" value="load" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="653" y="435" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="cmGCP_OIIJ002ob5zjLN-9" value="shift" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="653" y="480" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cmGCP_OIIJ002ob5zjLN-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4850,6 +4844,12 @@
         </mxCell>
         <mxCell id="3U_xtr8w2gxe_PuPfZUl-1" value="stop_count [3:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="580" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QQyfci-w6aelpGMGEwz0-1" value="next_state [1:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="437.5" width="100" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="EF-Dxl8EsH7aC3ELjcdH-1" value="current_state [1:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="480" width="107.5" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
