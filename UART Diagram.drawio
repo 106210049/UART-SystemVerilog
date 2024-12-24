@@ -3760,7 +3760,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7PcMRSogRyEetBTao7Rk" name="SIPO top module High level block">
-    <mxGraphModel dx="955" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="318" dy="169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4051,13 +4051,13 @@
         </mxCell>
         <mxCell id="WyBonQqo8d4S80ns_mt3-13" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#009900;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="710" as="sourcePoint" />
-            <mxPoint x="100" y="550" as="targetPoint" />
+            <mxPoint x="120" y="710" as="sourcePoint" />
+            <mxPoint x="120" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WyBonQqo8d4S80ns_mt3-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#009900;" parent="1" target="tqVTRjOflqfBut_qMiYa-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="710" as="sourcePoint" />
+            <mxPoint x="120" y="710" as="sourcePoint" />
             <mxPoint x="200" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
