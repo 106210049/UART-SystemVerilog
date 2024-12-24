@@ -3760,10 +3760,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7PcMRSogRyEetBTao7Rk" name="SIPO top module High level block">
-    <mxGraphModel dx="382" dy="203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="636" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bnQBec7-Gvwp5LpH6SOv-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="660" height="320" as="geometry" />
+        </mxCell>
         <mxCell id="BKiBuKKEoSTbWZ7e6Mna-1" value="controller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="180" width="160" height="120" as="geometry" />
         </mxCell>
