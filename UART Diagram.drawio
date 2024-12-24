@@ -2663,7 +2663,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ep9w95qgUtBdXqbv4fMn" name="PISO Shift Register">
-    <mxGraphModel dx="724" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3995,6 +3995,30 @@
         </mxCell>
         <mxCell id="wvBV4ovgO8F9wgLSrj3G-30" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="520" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wvBV4ovgO8F9wgLSrj3G-31" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wvBV4ovgO8F9wgLSrj3G-32" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wvBV4ovgO8F9wgLSrj3G-33" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wvBV4ovgO8F9wgLSrj3G-34" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wvBV4ovgO8F9wgLSrj3G-35" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wvBV4ovgO8F9wgLSrj3G-36" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wvBV4ovgO8F9wgLSrj3G-37" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wvBV4ovgO8F9wgLSrj3G-38" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="480" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
