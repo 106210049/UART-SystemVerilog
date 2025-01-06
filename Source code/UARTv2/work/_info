@@ -1,0 +1,533 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Fsemi/VLSI training
+vBaudGenRx
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1736173412
+!i10b 1
+!s100 RhkUjCWbZehAJVgQQH_o@3
+IQQKI6>III<GG@5gCzbf282
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 !s105 UART_Rx_sv_unit
+S1
+Z4 dD:/UARTv2
+Z5 w1736173315
+8Baud_Gen_Rx.sv
+FBaud_Gen_Rx.sv
+L0 2
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1736173412.000000
+Z8 !s107 Baud_Gen_Rx.sv|Deframe.sv|Error_Check.sv|SIPO.sv|stop_counter.sv|frame_counter.sv|FSM.sv|SIPO_Controller.sv|SIPO_top_module.sv|D:/UARTv2/UART_Rx.sv|
+Z9 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/UARTv2/UART_Rx.sv|
+!i113 1
+Z10 o-work work -sv
+Z11 tCvgOpt 0
+n@baud@gen@rx
+vBaudGenTx
+R0
+Z12 !s110 1736173411
+!i10b 1
+!s100 WFFgN7W;bbe@P`;Lo5_Y81
+IncOan]HceC3jUkZzIbOe=3
+R2
+Z13 !s105 design_sv_unit
+S1
+R4
+R5
+8Baud_Gen_Tx.sv
+FBaud_Gen_Tx.sv
+L0 1
+R6
+r1
+!s85 0
+31
+Z14 !s108 1736173411.000000
+Z15 !s107 Baud_Gen_Rx.sv|Deframe.sv|Error_Check.sv|SIPO.sv|stop_counter.sv|frame_counter.sv|FSM.sv|SIPO_Controller.sv|SIPO_top_module.sv|UART_Rx.sv|PISO.sv|PISO_Frame_Gen.sv|PISO_counter.sv|PISO_FSM.sv|PISO_controller.sv|PISO_top_module.sv|Parity_Bit.sv|Baud_Gen_Tx.sv|UART_Tx.sv|D:/UARTv2/design.sv|
+Z16 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/UARTv2/design.sv|
+!i113 1
+R10
+R11
+n@baud@gen@tx
+vcontroller
+R0
+R1
+!i10b 1
+!s100 Qb75A[E>>90WUk@A8MHY^1
+IFiBFEFlcHCQh]UKUSnOeU0
+R2
+Z17 !s105 PISO_top_module_sv_unit
+S1
+R4
+R5
+8PISO_controller.sv
+FPISO_controller.sv
+L0 4
+R6
+r1
+!s85 0
+31
+R7
+Z18 !s107 PISO.sv|PISO_Frame_Gen.sv|PISO_counter.sv|PISO_FSM.sv|PISO_controller.sv|D:/UARTv2/PISO_top_module.sv|
+Z19 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/UARTv2/PISO_top_module.sv|
+!i113 1
+R10
+R11
+vcounter
+R0
+R1
+!i10b 1
+!s100 >AYhn^83NCmILPH7;>Cb70
+I7>6]:z:EYXR??34O_Dl6Q2
+R2
+R17
+S1
+R4
+R5
+8PISO_counter.sv
+FPISO_counter.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R18
+R19
+!i113 1
+R10
+R11
+vDeFrame
+R0
+R1
+!i10b 1
+!s100 C>Vb265YjlDg^go@E7YiB0
+IgJUI=UUFY<92QOofK14cK0
+R2
+R3
+S1
+R4
+R5
+8Deframe.sv
+FDeframe.sv
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@de@frame
+vDuplexTest
+R0
+R1
+!i10b 1
+!s100 ga5BeMlMXPF0jm810kF2W2
+Ia[gO>WN]m3AHajDJ9UGRR1
+R2
+!s105 testbench_sv_unit
+S1
+R4
+R5
+8D:/UARTv2/testbench.sv
+FD:/UARTv2/testbench.sv
+L0 4
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/UARTv2/testbench.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/UARTv2/testbench.sv|
+!i113 1
+R10
+R11
+n@duplex@test
+vError_check
+R0
+R1
+!i10b 1
+!s100 KVIBfccYd9izOm3HiNH@b3
+IBe3S?=<BRoJT?iBSHRSOG2
+R2
+R3
+S1
+R4
+R5
+8Error_Check.sv
+FError_Check.sv
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@error_check
+vFrame_counter
+R0
+R1
+!i10b 1
+!s100 >eW>HPKZR4_7Q0fanKE:;3
+IP73T9CT;K8m7zX1oM8bo[1
+R2
+R3
+S1
+R4
+R5
+8frame_counter.sv
+Fframe_counter.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@frame_counter
+vFrame_Gen
+R0
+R1
+!i10b 1
+!s100 kQ5=FTPYd<eH[fHDj:Qm<1
+I=UBQXJ5@c69<zHaBQ1zHR3
+R2
+R17
+S1
+R4
+R5
+8PISO_Frame_Gen.sv
+FPISO_Frame_Gen.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R18
+R19
+!i113 1
+R10
+R11
+n@frame_@gen
+vFSM
+R0
+R1
+!i10b 1
+!s100 O5k4d]XfN`7KZ;BMBQoDj0
+Io9neoQGcbbidRBa:M3;R53
+R2
+R17
+S1
+R4
+R5
+8PISO_FSM.sv
+FPISO_FSM.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R18
+R19
+!i113 1
+R10
+R11
+n@f@s@m
+vParity_Bit
+R0
+R12
+!i10b 1
+!s100 g^hZ:ZS@LleMEKJ:HQRIk3
+Imo4zXg=6[cg]58oQ0Pha70
+R2
+!s105 Parity_Bit_sv_unit
+S1
+R4
+R5
+8D:/UARTv2/Parity_Bit.sv
+FD:/UARTv2/Parity_Bit.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R14
+!s107 D:/UARTv2/Parity_Bit.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/UARTv2/Parity_Bit.sv|
+!i113 1
+R10
+R11
+n@parity_@bit
+vPISO_reg
+R0
+R1
+!i10b 1
+!s100 <j3k]JIe2<5?YX?TVe>8B1
+IOIl8f:j:lX6z07j>2Ue>U3
+R2
+R17
+S1
+R4
+R5
+8PISO.sv
+FPISO.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R18
+R19
+!i113 1
+R10
+R11
+n@p@i@s@o_reg
+vPISO_top
+R0
+R1
+!i10b 1
+!s100 K]^@_GY8?=Loo`9`c?MK@2
+I6[7Q7WQlgPTl2ikD4C9<e1
+R2
+R17
+S1
+R4
+R5
+8D:/UARTv2/PISO_top_module.sv
+FD:/UARTv2/PISO_top_module.sv
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+R18
+R19
+!i113 1
+R10
+R11
+n@p@i@s@o_top
+vSIPO
+R0
+R1
+!i10b 1
+!s100 e?Acia341=Uo66XX9S09`2
+Ie758I`303[6Y0UH4=JRC_0
+R2
+R3
+S1
+R4
+R5
+8SIPO.sv
+FSIPO.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@s@i@p@o
+vSIPO_Controller
+R0
+R1
+!i10b 1
+!s100 ;bnEePOK00]jf>7Rcz0Qk2
+I:UmBgo4X92S;<C31mV^KZ1
+R2
+R3
+S1
+R4
+R5
+8SIPO_Controller.sv
+FSIPO_Controller.sv
+L0 4
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@s@i@p@o_@controller
+vSIPO_FSM
+R0
+R1
+!i10b 1
+!s100 2C4>Ug9]zMnUQK`]_5AEh1
+I76EGNSLZIJ@XHW@7AdkHS2
+R2
+R3
+S1
+R4
+R5
+8FSM.sv
+FFSM.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@s@i@p@o_@f@s@m
+vSIPO_top
+R0
+R1
+!i10b 1
+!s100 zfIzdJdZk;RD4gPk209Z:2
+I`Dcfe^EUibG=oP^[_PR3^2
+R2
+R3
+S1
+R4
+R5
+8SIPO_top_module.sv
+FSIPO_top_module.sv
+L0 4
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@s@i@p@o_top
+vStop_counter
+R0
+R1
+!i10b 1
+!s100 A_9U5an`OzGkFRU;MKEYP3
+I_D=YVM;8fdJ8fM8012D7@3
+R2
+R3
+S1
+R4
+R5
+8stop_counter.sv
+Fstop_counter.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@stop_counter
+vUART
+R0
+R12
+!i10b 1
+!s100 ziYdE]C231ZmdZ?OR@C8k3
+Ig:eRFi7e=lC=F9L7Z]4971
+R2
+R13
+S1
+R4
+R5
+8D:/UARTv2/design.sv
+FD:/UARTv2/design.sv
+L0 5
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+R11
+n@u@a@r@t
+vUART_Rx
+R0
+R1
+!i10b 1
+!s100 9<?c3diIPAGnRNhUS=V2i0
+IgY4SW:PHH`I6c:o<DBE3a2
+R2
+R3
+S1
+R4
+R5
+8D:/UARTv2/UART_Rx.sv
+FD:/UARTv2/UART_Rx.sv
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@u@a@r@t_@rx
+vUART_Tx
+R0
+R12
+!i10b 1
+!s100 FDR5XlbLVC[nA?^5FgKoN3
+Il6YIannAMTT8GmQ3n>h<80
+R2
+R13
+S1
+R4
+R5
+8UART_Tx.sv
+FUART_Tx.sv
+L0 6
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+R11
+n@u@a@r@t_@tx

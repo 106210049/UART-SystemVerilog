@@ -1,0 +1,199 @@
+D:/UARTv2/Deframe.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/Deframe.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DeFrame
+
+Top level modules:
+	DeFrame
+
+} {} {}} D:/UARTv2/UART_Rx.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/UART_Rx.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SIPO_FSM
+-- Compiling module Frame_counter
+-- Compiling module Stop_counter
+-- Compiling module SIPO_Controller
+-- Compiling module SIPO
+-- Compiling module SIPO_top
+-- Compiling module Error_check
+-- Compiling module DeFrame
+-- Compiling module BaudGenRx
+-- Compiling module UART_Rx
+
+Top level modules:
+	UART_Rx
+
+} {} {}} D:/UARTv2/stop_counter.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/stop_counter.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Stop_counter
+
+Top level modules:
+	Stop_counter
+
+} {} {}} D:/UARTv2/PISO_Frame_Gen.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/PISO_Frame_Gen.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Frame_Gen
+
+Top level modules:
+	Frame_Gen
+
+} {} {}} D:/UARTv2/UART_Tx.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/UART_Tx.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BaudGenTx
+-- Compiling module Parity_Bit
+-- Compiling module FSM
+-- Compiling module counter
+-- Compiling module controller
+-- Compiling module Frame_Gen
+-- Compiling module PISO_reg
+-- Compiling module PISO_top
+-- Compiling module UART_Tx
+
+Top level modules:
+	UART_Tx
+
+} {} {}} D:/UARTv2/Error_Check.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/Error_Check.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Error_check
+
+Top level modules:
+	Error_check
+
+} {} {}} D:/UARTv2/testbench.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/testbench.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DuplexTest
+
+Top level modules:
+	DuplexTest
+
+} {} {}} D:/UARTv2/PISO_FSM.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/PISO_FSM.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FSM
+
+Top level modules:
+	FSM
+
+} {} {}} D:/UARTv2/SIPO_top_module.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/SIPO_top_module.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SIPO_FSM
+-- Compiling module Frame_counter
+-- Compiling module Stop_counter
+-- Compiling module SIPO_Controller
+-- Compiling module SIPO
+-- Compiling module SIPO_top
+
+Top level modules:
+	SIPO_top
+
+} {} {}} D:/UARTv2/PISO_top_module.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/PISO_top_module.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FSM
+-- Compiling module counter
+-- Compiling module controller
+-- Compiling module Frame_Gen
+-- Compiling module PISO_reg
+-- Compiling module PISO_top
+
+Top level modules:
+	PISO_top
+
+} {} {}} D:/UARTv2/design.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/design.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BaudGenTx
+-- Compiling module Parity_Bit
+-- Compiling module FSM
+-- Compiling module counter
+-- Compiling module controller
+-- Compiling module Frame_Gen
+-- Compiling module PISO_reg
+-- Compiling module PISO_top
+-- Compiling module UART_Tx
+-- Compiling module SIPO_FSM
+-- Compiling module Frame_counter
+-- Compiling module Stop_counter
+-- Compiling module SIPO_Controller
+-- Compiling module SIPO
+-- Compiling module SIPO_top
+-- Compiling module Error_check
+-- Compiling module DeFrame
+-- Compiling module BaudGenRx
+-- Compiling module UART_Rx
+-- Compiling module UART
+
+Top level modules:
+	UART
+
+} {} {}} D:/UARTv2/frame_counter.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/frame_counter.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Frame_counter
+
+Top level modules:
+	Frame_counter
+
+} {} {}} D:/UARTv2/PISO_counter.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/PISO_counter.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} D:/UARTv2/SIPO.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/SIPO.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SIPO
+
+Top level modules:
+	SIPO
+
+} {} {}} D:/UARTv2/PISO.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/PISO.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PISO_reg
+
+Top level modules:
+	PISO_reg
+
+} {} {}} D:/UARTv2/SIPO_Controller.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/SIPO_Controller.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SIPO_FSM
+-- Compiling module Frame_counter
+-- Compiling module Stop_counter
+-- Compiling module SIPO_Controller
+
+Top level modules:
+	SIPO_Controller
+
+} {} {}} D:/UARTv2/Baud_Gen_Rx.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/Baud_Gen_Rx.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BaudGenRx
+
+Top level modules:
+	BaudGenRx
+
+} {} {}} D:/UARTv2/FSM.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/FSM.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SIPO_FSM
+
+Top level modules:
+	SIPO_FSM
+
+} {} {}} D:/UARTv2/PISO_controller.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/PISO_controller.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FSM
+-- Compiling module counter
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} D:/UARTv2/Parity_Bit.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/Parity_Bit.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Parity_Bit
+
+Top level modules:
+	Parity_Bit
+
+} {} {}} D:/UARTv2/Baud_Gen_Tx.sv {1 {vlog -work work -sv -stats=none D:/UARTv2/Baud_Gen_Tx.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BaudGenTx
+
+Top level modules:
+	BaudGenTx
+
+} {} {}}
