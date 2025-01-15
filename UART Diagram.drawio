@@ -2273,7 +2273,7 @@
             <mxPoint x="385" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cknS4SPhCtUux0X8xvLL-46" value="clk" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cknS4SPhCtUux0X8xvLL-46" value="baud_clk" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="345" y="370" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cknS4SPhCtUux0X8xvLL-47" value="rst_n" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
