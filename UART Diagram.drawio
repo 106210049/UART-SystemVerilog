@@ -2035,7 +2035,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Cjdv-Rebkqt124ObUQ4C" name="PISO_counter">
-    <mxGraphModel dx="989" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="420" dy="223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2123,7 +2123,7 @@
         <mxCell id="cknS4SPhCtUux0X8xvLL-7" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="105" y="290" width="500" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="dxQLfAR-YJIeZM0tbjdb-1" value="counter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="cknS4SPhCtUux0X8xvLL-7">
+        <mxCell id="dxQLfAR-YJIeZM0tbjdb-1" value="counter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FFFF;" parent="cknS4SPhCtUux0X8xvLL-7" vertex="1">
           <mxGeometry y="-30" width="500" height="180" as="geometry" />
         </mxCell>
         <mxCell id="cknS4SPhCtUux0X8xvLL-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="cknS4SPhCtUux0X8xvLL-7" edge="1">
@@ -2181,7 +2181,7 @@
           <mxGeometry x="20" y="70" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cknS4SPhCtUux0X8xvLL-24" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="225" y="270" width="160" height="100" as="geometry" />
+          <mxGeometry x="225" y="270" width="207" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cknS4SPhCtUux0X8xvLL-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="cknS4SPhCtUux0X8xvLL-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2218,6 +2218,24 @@
         </mxCell>
         <mxCell id="cknS4SPhCtUux0X8xvLL-54" value="count_full" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cknS4SPhCtUux0X8xvLL-24" vertex="1">
           <mxGeometry x="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U0macpsbugbwPoSGvblz-7" value="" style="group" vertex="1" connectable="0" parent="cknS4SPhCtUux0X8xvLL-24">
+          <mxGeometry x="160" y="47" width="47" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="U0macpsbugbwPoSGvblz-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U0macpsbugbwPoSGvblz-7">
+          <mxGeometry width="47" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="U0macpsbugbwPoSGvblz-9" value="D" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="U0macpsbugbwPoSGvblz-7">
+          <mxGeometry width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U0macpsbugbwPoSGvblz-10" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="U0macpsbugbwPoSGvblz-7">
+          <mxGeometry y="46" width="10" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="U0macpsbugbwPoSGvblz-11" value="Q" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="U0macpsbugbwPoSGvblz-7">
+          <mxGeometry x="37" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U0macpsbugbwPoSGvblz-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="U0macpsbugbwPoSGvblz-7">
+          <mxGeometry x="18.5" y="63" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="cknS4SPhCtUux0X8xvLL-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="cknS4SPhCtUux0X8xvLL-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
