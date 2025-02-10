@@ -5192,7 +5192,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z5WOrBsQj5tqjMXXJ47d" name="SIPO_FSM">
-    <mxGraphModel dx="574" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="398" dy="214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5359,6 +5359,17 @@
         </mxCell>
         <mxCell id="hZD2TxyxA9ntQWqWbLvj-17" value="frame_count = 10" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="333.75" y="300" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZD2TxyxA9ntQWqWbLvj-18" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0.917;entryY=0.22;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.65;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hZD2TxyxA9ntQWqWbLvj-4" target="hZD2TxyxA9ntQWqWbLvj-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="263" y="286" as="sourcePoint" />
+            <mxPoint x="278.2842712474619" y="296.9957287525381" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="252" y="270" />
+              <mxPoint x="300" y="270" />
+              <mxPoint x="300" y="298" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
