@@ -169,12 +169,6 @@
         <mxCell id="ST3ynC30ayqtAyNjZGW3-40" value="error_flag [2:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="70" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C3-NaL-tapF65oNl09gD-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/106210049/UART-SystemVerilog/raw/main/Image/UART_Tx.png;" parent="1" vertex="1">
-          <mxGeometry x="100" y="310" width="645" height="346.69" as="geometry" />
-        </mxCell>
-        <mxCell id="C3-NaL-tapF65oNl09gD-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/106210049/UART-SystemVerilog/raw/main/Image/UART_Rx.png;" parent="1" vertex="1">
-          <mxGeometry x="104" y="660" width="642.33" height="354.92" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
