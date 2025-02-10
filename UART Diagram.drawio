@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="11">
   <diagram name="UART" id="LckPgGuNKx3er_0MUJO8">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5246,9 +5246,6 @@
         </mxCell>
         <mxCell id="cmGCP_OIIJ002ob5zjLN-14" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;en&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="358" y="510" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="cmGCP_OIIJ002ob5zjLN-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/106210049/UART-SystemVerilog/raw/main/Image/Rx_FSM.png;" parent="1" vertex="1">
-          <mxGeometry x="112" y="20" width="627" height="374.64" as="geometry" />
         </mxCell>
         <mxCell id="cl87C7gSw40asrmIB5F8-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
