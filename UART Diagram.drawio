@@ -5343,6 +5343,20 @@
         <mxCell id="hZD2TxyxA9ntQWqWbLvj-14" value="stop_count !=7" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="80" width="97.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hZD2TxyxA9ntQWqWbLvj-15" value="frame_count != 10" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="260" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZD2TxyxA9ntQWqWbLvj-16" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hZD2TxyxA9ntQWqWbLvj-3" target="hZD2TxyxA9ntQWqWbLvj-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="577" y="280" as="sourcePoint" />
+            <mxPoint x="633" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="588" y="280" />
+              <mxPoint x="655" y="280" />
+              <mxPoint x="655" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
