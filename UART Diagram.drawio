@@ -5289,6 +5289,9 @@
         <mxCell id="hZD2TxyxA9ntQWqWbLvj-3" value="FRAME" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="hZD2TxyxA9ntQWqWbLvj-4" value="HOLD" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
