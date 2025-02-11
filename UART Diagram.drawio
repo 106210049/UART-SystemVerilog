@@ -178,8 +178,11 @@
         <mxCell id="K-4voX6jyv0MrS3RRW5r-2" value="Parity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="480" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="K-4voX6jyv0MrS3RRW5r-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="K-4voX6jyv0MrS3RRW5r-4" target="K-4voX6jyv0MrS3RRW5r-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K-4voX6jyv0MrS3RRW5r-4" value="BaudGen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="600" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
