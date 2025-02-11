@@ -175,7 +175,7 @@
         <mxCell id="ST3ynC30ayqtAyNjZGW3-40" value="error_flag [2:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="60" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K-4voX6jyv0MrS3RRW5r-1" value="PISO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFECD1,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+        <mxCell id="K-4voX6jyv0MrS3RRW5r-1" value="PISO top module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFECD1,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="425" y="390" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="K-4voX6jyv0MrS3RRW5r-2" value="Parity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFD8D7,var(--ge-dark-color, #121212));" vertex="1" parent="1">
