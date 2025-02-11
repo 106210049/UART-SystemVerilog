@@ -334,6 +334,9 @@
         <mxCell id="K-4voX6jyv0MrS3RRW5r-44" value="parity_bit" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="500" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="K-4voX6jyv0MrS3RRW5r-46" value="baud_clk" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="620" width="60" height="20.63" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
