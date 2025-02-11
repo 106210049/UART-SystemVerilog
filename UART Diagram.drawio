@@ -170,9 +170,9 @@
           <mxGeometry x="650" y="70" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K-4voX6jyv0MrS3RRW5r-1" value="PISO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="440" width="120" height="160" as="geometry" />
+          <mxGeometry x="360" y="400" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="K-4voX6jyv0MrS3RRW5r-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K-4voX6jyv0MrS3RRW5r-2" target="K-4voX6jyv0MrS3RRW5r-1">
+        <mxCell id="K-4voX6jyv0MrS3RRW5r-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.602;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K-4voX6jyv0MrS3RRW5r-2" target="K-4voX6jyv0MrS3RRW5r-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K-4voX6jyv0MrS3RRW5r-2" value="Parity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -183,6 +183,12 @@
         </mxCell>
         <mxCell id="K-4voX6jyv0MrS3RRW5r-4" value="BaudGen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K-4voX6jyv0MrS3RRW5r-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="390" as="sourcePoint" />
+            <mxPoint x="220" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
