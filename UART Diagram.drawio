@@ -553,6 +553,12 @@
         <mxCell id="K-4voX6jyv0MrS3RRW5r-109" value="recieved_flag" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="860" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="K-4voX6jyv0MrS3RRW5r-111" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;UART Transmitter&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="310" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K-4voX6jyv0MrS3RRW5r-112" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;UART Reciever&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1050" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
