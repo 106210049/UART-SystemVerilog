@@ -349,7 +349,7 @@
         <mxCell id="K-4voX6jyv0MrS3RRW5r-49" value="active_flag" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="490" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="K-4voX6jyv0MrS3RRW5r-51" value="SIPO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFECD1,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+        <mxCell id="K-4voX6jyv0MrS3RRW5r-51" value="SIPO top module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFECD1,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="240" y="760" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="K-4voX6jyv0MrS3RRW5r-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
