@@ -529,6 +529,9 @@
         <mxCell id="K-4voX6jyv0MrS3RRW5r-99" value="baud_rate[1:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="920" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="K-4voX6jyv0MrS3RRW5r-100" value="parity_type[1:0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1010" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
