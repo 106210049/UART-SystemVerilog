@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="11">
   <diagram name="UART" id="LckPgGuNKx3er_0MUJO8">
-    <mxGraphModel dx="819" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="333" dy="180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -355,20 +355,19 @@
             <mxPoint x="240" y="859.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K-4voX6jyv0MrS3RRW5r-55" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="K-4voX6jyv0MrS3RRW5r-61" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="960" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K-4voX6jyv0MrS3RRW5r-53" value="BaudGen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D0F0EA,var(--ge-dark-color, #121212));" vertex="1" parent="K-4voX6jyv0MrS3RRW5r-55">
+        <mxCell id="K-4voX6jyv0MrS3RRW5r-58" value="BaudGen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D0F0EA,var(--ge-dark-color, #121212));" vertex="1" parent="K-4voX6jyv0MrS3RRW5r-61">
           <mxGeometry width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K-4voX6jyv0MrS3RRW5r-54" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="K-4voX6jyv0MrS3RRW5r-55">
+        <mxCell id="K-4voX6jyv0MrS3RRW5r-59" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="K-4voX6jyv0MrS3RRW5r-61">
           <mxGeometry y="26" width="10" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="K-4voX6jyv0MrS3RRW5r-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="K-4voX6jyv0MrS3RRW5r-53" target="K-4voX6jyv0MrS3RRW5r-51">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="980" />
-            </Array>
+        <mxCell id="K-4voX6jyv0MrS3RRW5r-62" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="K-4voX6jyv0MrS3RRW5r-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="88" y="993" as="sourcePoint" />
+            <mxPoint x="157" y="993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
