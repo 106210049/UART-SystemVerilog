@@ -5709,7 +5709,7 @@
         <mxCell id="hZD2TxyxA9ntQWqWbLvj-10" value="data_tx=1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="218" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hZD2TxyxA9ntQWqWbLvj-11" value="data_tx=1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="hZD2TxyxA9ntQWqWbLvj-11" value="data_tx=0" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="358" y="140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZD2TxyxA9ntQWqWbLvj-12" value="stop_count=7" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
